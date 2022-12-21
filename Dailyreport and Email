@@ -1,0 +1,6 @@
+@ECHO OFF
+START C:\Users\70037\Desktop\dailyreport.jnlp
+START ”” ””C:\Program Files (x86)\Microsoft Office\
+Office16\OUTLOOK.EXE
+/select %1
+ECHO FINISH
